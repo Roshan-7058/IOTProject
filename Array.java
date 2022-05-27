@@ -22,7 +22,7 @@ public class Array {
 			int temp=array[i];
 			if(temp==num)
 			{
-				System.out.println("Value is present in ARRAY");
+				System.out.println("Value is PRESENT in ARRAY");
 				break;
 			}			
 					
